@@ -1,19 +1,19 @@
-Sitio est√°tico v5 - holadigital
+Sitio est·tico v5 - holadigital
 
 Incluye:
 - Home
 - Servicios
-- C√≥mo trabajamos
+- CÛmo trabajamos
 - Casos
 - Nosotros
 - Contacto
-- Secci√≥n de planes para sitios web
-- Bot√≥n flotante de WhatsApp
+- SecciÛn de planes para sitios web
+- BotÛn flotante de WhatsApp
 - Logo SVG incorporado en header
 - Paleta verde sobre fondo oscuro
 
 Notas:
 - El formulario es visual. Para enviar mails hay que conectarlo con un servicio externo.
-- El bot√≥n de WhatsApp est√° listo a nivel visual, pero usa un n√∫mero de ejemplo. Reemplazalo por el n√∫mero real en los archivos HTML.
+- El botÛn de WhatsApp est· listo a nivel visual, pero usa un nÌ∫mero de ejemplo. Reemplazalo por el nÌ∫mero real en los archivos HTML.
 
-- Versi√≥n "loca" inspirada en la paleta de la camiseta de Curazao: azul, crema, turquesa, naranja y rosa, aplicada con criterio corporativo.
+- VersiÛn "loca" inspirada en la paleta de la camiseta de Curazao: azul, crema, turquesa, naranja y rosa, aplicada con criterio corporativo.
